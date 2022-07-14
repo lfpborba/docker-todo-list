@@ -1,5 +1,6 @@
 FROM node:14-alpine
 EXPOSE 3001
+WORKDIR /
 ADD node_modules.tar.gz ./
-COPY . home/node/app
+COPY . ./
 CMD ["npm", "start"]

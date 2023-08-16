@@ -1,10 +1,14 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# 💻 Projeto
+"Conteinerização" de aplicações de frontend, backend e testes com o uso de Docker, criando uma conexão entre elas e orquestrando seu funcionamento.
+
+# 🚀 Tecnologias
+Este projeto foi desenvolvido com as seguintes tecnologias:
+- Bash
+-	Docker
+
+# 📌 Habilidades
+Neste projeto, desenvolvi as seguintes habilidades:
+-	Usar comandos Docker na CLI;
+-	Criar imagens Docker de aplicações;
+-	Criar e executar contêineres Docker;
+-	Orquestrar contêineres utilizando o Docker Compose.
